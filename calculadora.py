@@ -1,3 +1,9 @@
+'''
+Ejercicio 4: Calculadora simple
+Crea una calculadora que pueda realizar operaciones básicas como suma, resta, multiplicación y división. 
+El programa debe tomar como entrada dos números y la operación a realizar.
+'''
+
 def suma(num1, num2):
     suma = num1 + num2
     return suma

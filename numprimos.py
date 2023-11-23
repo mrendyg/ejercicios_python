@@ -1,4 +1,7 @@
-#Imprime numeros primos hasta el 100
+'''
+Ejercicio 2: Verificación de número primo
+Escribe un programa que verifique si un número ingresado por el usuario es primo o no.
+'''
 
 for i in range(2, 100):
     es_primo=True
