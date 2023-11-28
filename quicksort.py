@@ -1,4 +1,6 @@
 
+#logaritmo de ordenamiento
+
 def partition(array, low, high):
  
     pivot = array[high]
